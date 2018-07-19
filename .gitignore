@@ -1,0 +1,15 @@
+# plots #
+
+*.pdf
+
+# Manuscript files #
+
+*.docx
+*Manuscript*
+*.rtf
+Manuscript
+
+
+# R project files*
+
+*proj*
